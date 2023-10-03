@@ -1,11 +1,11 @@
-body{
-    background-color: rgb(78, 78, 202);
+h1{
+    color: black;
 }
 
-img{
-    width: 650px;
-    height: 400px;
+body{
+    background-color: skyblue;
 }
-h1{
-    margin-left: 40px;
+
+p{
+    margin-right: 500px;
 }
